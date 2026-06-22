@@ -2,18 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff00&height=200&section=header&text=WOLVAREX&fontSize=62&fontColor=00ff00&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20Open%20Source%20%7C%20Kenya%20🇰🇪&descAlignY=58&descSize=15&descColor=9ca3af&fontFamily=monospace" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/WOLVAREX">
-    <img src="https://img.shields.io/github/followers/WOLVAREX?color=00ff00&style=flat-square&label=Followers&labelColor=000000&logo=github&logoColor=00ff00" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=WOLVAREX&color=00ff00&style=flat-square&label=Profile+Views&labelColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Roles%20%26%20Freelance-00ff00?style=flat-square&labelColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-SaaS%20%7C%20APIs%20%7C%20Automation-00ff00?style=flat-square&labelColor=000000" />
-</p>
-
 ---
 
 ## 👤 Who I Am
